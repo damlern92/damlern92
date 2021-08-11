@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marko Damjanac
 - 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on the area of programming and design
-- 📫 How to reach me ... You can reach me on GitHub
+<!-- - 📫 How to reach me ... You can reach me on GitHub -->
 
 <!-- - 🌱 I’m currently learning -->
 
