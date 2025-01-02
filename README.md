@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marko Damjanac
-- 💞️ I have a big love to programming and design web applications.
+- 💞️ I have a big passion to programming and design web applications
 -  And also 👀 looking to collaborate on the area of programming and design.
 <!-- - 📫 How to reach me ... You can reach me on GitHub -->
 <!-- - 🌱 I’m currently learning -->
