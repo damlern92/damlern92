@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marko Damjanac
 - 💞️ I have a big passion to programming and design web applications
-and also 👀 looking to collaborate on the area of programming and design in web app, software and game platform.
+and also 👀looking to collaborate on the area of programming and design in web app, software and game platform.
 <!-- - 📫 How to reach me ... You can reach me on GitHub -->
 <!-- - 🌱 I’m currently learning -->
 
